@@ -8,28 +8,28 @@ including web development, data analysis, and enterprise applications.
 
 ### ☕ Java
 
-✅ **Strongly Typed**<br/>
-✅ **Platform Independent**<br/>
-✅ **Widely used in Enterprise Applications**<br/>
+✅ Strongly Typed<br/>
+✅ Platform Independent<br/>
+✅ Widely used in Enterprise Applications<br/>
 
 ### 🔥 PHP
 
-✅ **Dynamically Typed**<br/>
-✅ **Server-Side Scripting**<br/>
-✅ **Strong in Web Development**<br/>
+✅ Dynamically Typed<br/>
+✅ Server-Side Scripting<br/>
+✅ Strong in Web Development<br/>
 
 ### 🐍 Python
 
-✅ **Dynamically Typed**<br/>
-✅ **Great for Prototyping**<br/>
-✅ **Diverse Libraries for Data Science**<br/>
+✅ Dynamically Typed<br/>
+✅ Great for Prototyping<br/>
+✅ Diverse Libraries for Data Science<br/>
 
 ## 🚀 Key Comparisons
 
-✅ **Performance and Speed**<br/>
-✅ **Syntax and Readability**<br/>
-✅ **Community and Support**<br/>
-✅ **Application and Versatility**<br/>
+✅ Performance and Speed<br/>
+✅ Syntax and Readability<br/>
+✅ Community and Support<br/>
+✅ Application and Versatility<br/>
 
 ## 📝 Version
 
